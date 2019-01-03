@@ -1,10 +1,10 @@
 # Setup
-title:               'CMSE 822: Parallel Computing'
-tagline:             'Parallel Computing, Fall 2018'
-description:         'Michigan State University - Computational Mathematics, Science, and Engineering 822: Parallel Computing. A graduate-level course covering the fundamentals of high-peformance computing on parallel architectures.'
-url:                 https://cmse822.github.io
+title:               'AST 900: Numerical Relativity'
+tagline:             'Numerical Relativity, Spring 2019'
+description:         'Michigan State University - Physics and Astronomy 900: Numerical Relativity. An advanced graduate-level course covering the numerical simulation of astrophysical systems by solving Einstein's equations of general relativity.'
+url:                 https://msunumrel.github.io
 github:
-  repository_name:   https://github.com/cmse822
+  repository_name:   https://github.com/MSUNumRel
 
 # About/contact
 author:
