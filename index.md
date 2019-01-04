@@ -1,6 +1,6 @@
 # Syllabus
 
-## Fall 2018, Michigan State University
+## Spring 2019, Michigan State University
 
 ### Prof. Sean Couch
 
@@ -8,99 +8,85 @@ This is graduate-level course covers the practical and theoretical aspects of pa
 
 ### Course Goals
 
-At the conclusion of this course, you should be able to
+At the conclusion of this course, you should 
 
-- Benchmark and profile the performance of serial and parallel applications
-- Develop and optimize applications using shared-memory threading parallelism
-- Develop and optimize applications using distributed-memory message passing
-- Develop and optimize hybrid parallelism applications
-- Make effective use of high-performance parallel computing architectures
+- understand the basic concepts and equations of general relativity
+- be able to solve problems using the tools of relativity
+- be able to write software to solve problems in relativity numerically
+- understand the theoretical framework for solving Einstein's equations numerically
+- understand how black holes can be treated numerically
+- understand the physical sources and mechanisms of gravitational wave emission
+- be able to solve relativistic problems in both vacuum and matter-dominated spacetimes 
 
 ### Instructor information
 
 Dr. Sean M. Couch  
 Assistant Professor  
-Office: 1508G Engineering Building and 3250 Biomedical and Physical Sciences  
+Office: 3250 Biomedical and Physical Sciences  
 Office phone: (517) 884-5035  
-Office hours: Tuesdays and Thursdays, 9 am to 10 am in 1508G EGR.  
+Office hours: By appointment  
 [couch@pa.msu.edu](mailto:couch@pa.msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
-Teaching Assistant/Grader:  
-Forrest Glines  
-Dual-PhD student in Astrophysics and CMSE  
-[glinesfo@msu.edu](mailto:glinesfo@msu.edu)
+### Class meetings
 
-### Class meetings and office hours
-
-The class meets Tuesdays and Thursdays from 10:20 am to 11:40 am in 1230 Engineering Building. Class meetings are highly interactive and you are expected to bring a laptop to each meeting. Office hours are from 9 am to 10 am on Tuesdays and Thursdays in 1508G Engineering Building.
+The class meets Tuesdays and Thursdays from 12:40 pm to 2 pm in [N125 Business College Complex](https://maps.msu.edu/interactive/index.php?location=BCC) (BCC). 
 
 ### Communication and Slack
 
 The primary vehicle for communication regarding this course will be [Slack](http://slack.com).
-Specifically, there is a `cmse822-fs18` channel in the [cmse-courses](http://cmse-courses.slack.com) Slack workspace.
+Specifically, there is a `numrel` channel in the [AstroMSU](http://astromsu.slack.com) Slack workspace.
 You may use your `@msu.edu` email address to join this Slack workspace.
-Please join this Slack workspace and the `cmse822-fs18` channel and participate in discussions.
-Discussion of course subject material is encouraged.
-You may also send direct messages via Slack to the instructors or any other member of the workspace.
+Please join this Slack workspace and the `numrel` channel and participate in discussions.
+Discussion of course subject material and problems is encouraged.
+You may also send direct messages via Slack to the instructor or any other member of the workspace.
 
 ### Text book and references
 
-The two primary textbooks for this course are [High Performance Scientific Computing](https://bitbucket.org/VictorEijkhout/hpc-book-and-course) and [Parallel Programming in Science and Engineering](https://bitbucket.org/VictorEijkhout/parallel-computing-book/src), both by Victor Eijkhout.
-Both of these texts are open-source and freely-available from the author.
-Supplementary reading and reference material is available on the course webpage under [Resources](resources.md).
+The primary textbook for the majority of this course is [Numerical Relativity](https://magic.msu.edu//search\~S39?/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&search=numerical+relativity+solving+einstein%27s+equations&SUBKEY=numerical+relativity+solving+einstein%27s+equations/1%2C3%2C3%2CB/frameset&FF=Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&2%2C2%2C) by Baumgarte & Shapiro. This text is available from the MSU Libraries as an electronic resource available for download.
+
+We will also make use of several chapters from [Modern Classical Physics](https://magic.msu.edu//search\~S39?/XModern+Classical+Physics&SORT=D/XModern+Classical+Physics&SORT=D&search=Modern+Classical+Physics&SUBKEY=Modern+Classical+Physics/1%2C346%2C346%2CB/frameset&FF=XModern+Classical+Physics&SORT=D&1%2C1%2C) by Thorne and Blandford.
+
+Other useful resources and texts on general relativity that may be used as references are:
+
+[Gravitation](https://magic.msu.edu/search\~S39?/tgravitation/tgravitation/1%2C150%2C185%2CB/frameset&FF=tgravitation+%2F&6%2C%2C7/indexsort=-) by Misner, Thorne, and Wheeler (often just referred to as MTW)
+
+[General Relativity](https://magic.msu.edu/search\~S39?/awald/awald/101%2C1538%2C4339%2CB/frameset&FF=awald+robert+m&1%2C%2C4/indexsort=-) by Robert Wald 
+
+[Spacetime and Geometry](https://magic.msu.edu/search\~S39?/Xspacetime+and+geometry&SORT=D/Xspacetime+and+geometry&SORT=D&search=spacetime+and+geometry&SUBKEY=spacetime+and+geometry/1%2C82%2C82%2CB/frameset&FF=Xspacetime+and+geometry&SORT=D&4%2C4%2C) by Sean Caroll
+
+[Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) by Sean Carroll (the freely-available precursor to the Spacetime and Geometry textbook)
 
 ### Use of HPCC
 
-Many of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
+Some of the course assignments will utilize the MSU campus High Performance Computing Center (HPCC). All students must obtain an account on the HPCC. The best way to get an HPCC is through your research mentors. If this is not feasible, talk to the course instructor.
 
 ### Assignments
 
-The coursework consists of a combination of pre-class assignments and in-class homework. The pre-class assignments will serve as the basis for in-class discussion and so it is important that you complete them---you will be evaluated on your in-class participation.
+There will be reading and problem sets assigned on a roughly weekly basis. See [Assignments](assignments.md) for a complete listing. Your solutions to the problems will be checked on a monthly basis. See [Schedule](schedule.md) for the assigned reading. You will be expected to complete the reading _prior_ to class as not _all_ the reading material will be covered in lecture, but you _will_ need to know it in order to complete the problems. 
 
-The assignments will often consist of writing and running code. As such, all assignments will be handed out and turned in via Git repositories on the course's [GitHub Classroom](https://github.com/cmse822f18). The Git history of your assignments should demonstrate the originality of your work.
-You will also be graded on the _quality_ of your code.
-Please read and refer to the course [coding standards](coding.md) for clear guidelines on writing readable, maintainable code.
+Group work on the problem sets is encouraged and, in some cases, may be explicitly required. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to work with classmates on assignments, you must explicitly acknowledge them by name and indicate their contributions in your final write-up.
 
-No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to consult with classmates while working on assignments, you must explicitly acknowledge them by name and indicate their contributions in the final write-up.
+Occasionally, you will be required to present solutions to the assigned problems in class. It is critical that you come prepared in these cases. Class participation will be included as part of your final grade.
 
-Many of the assignments will require writing code and routines that may be easily found in publicly-available numerical libraries.
-Unless explicitly stated, you should assume that all code required in the assignments must be original.
-I.e., do not simply use off-the-shelf code.
-The point of the assignments is to give _you_ practice in writing scientific software.
+### Projects
 
-### In-class work and attendance
-
-Class periods will frequently be used for formal discussion of the course material and for in-class homeworks. It is, therefore, very important that you show up! Frequent absences will affect your class participation grade.
-
-### Project
-
-In the latter part of the course, you will complete a [longer project](projects.md) in which you will develop and test a highly-parallel code.
-You will choose a project from the list that will be available on the course [projects page](projects.md).
-At the culmination of the project, you will prepare and present a poster on your work during the final class meeting of the semester.
-Your posters will be peer-reviewed by your classmates.
-You will also write, in a professional style, a report on your work.
+You will be required to complete a midterm and final project for the course. The midterm project will be individual while for the final project you will be required to work as a group. See [Projects](projects.md) for forthcoming details. 
 
 ### Final exam
 
-The final will be an in-class written exam covering the entire range of topics discussed in the course. The final is scheduled for Thursday, December 13, 10 am to 12 pm, in 1230 EGR.
-
-### CMSE Subject Exam in Parallel Computing
-
-This course is one of the subject exam courses for the PhD in CMSE.
-For those of you requiring the subject exam, your score will be determined by _both_ your score on the written final _and_ on the final project.
+There will be no final exam but you will be required to make oral presentations about your final project during the course final exam time, 10 am to 12 pm on May 1 in N125 BCC.
 
 ### Grading policy
 
 The weights for the course grade are as follows.
 
-Category                                 | %
----------------------------------------- | ---
-Pre-class assignments                    | 20%
-In-class assignments                     | 20%
-In-class participation                   | 10%
-Project (code, poster, and report)       | 30%
-Final                                    | 20%
+Category                   | %
+-------------------------- | ---
+Problem sets               | 40%
+Midterm project            | 20%
+Final project              | 30%
+In-class participation     | 10%
 
 The final course grade will be assigned based on the following scale.
 

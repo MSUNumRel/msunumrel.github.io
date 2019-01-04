@@ -5,38 +5,40 @@ title: Course Schedule
 
 # Course Schedule
 
-The class will follow this _tentative_ schedule. Updates will be posted here and on the class [Slack](http://cmse-courses.slack.com)!
+The class will follow this _tentative_ schedule. Updates will be posted here and on the course Slack channel! In the following **TB** refers to Thorne & Blandford, [Modern Classical Physics](https://magic.msu.edu//search~S39?/XModern+Classical+Physics&SORT=D/XModern+Classical+Physics&SORT=D&search=Modern+Classical+Physics&SUBKEY=Modern+Classical+Physics/1%2C346%2C346%2CB/frameset&FF=XModern+Classical+Physics&SORT=D&1%2C1%2C), and **BS** refers to Baumgarte & Shapiro, [Numerical Relativity](https://magic.msu.edu//search~S39?/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&search=numerical+relativity+solving+einstein%27s+equations&SUBKEY=numerical+relativity+solving+einstein%27s+equations/1%2C3%2C3%2CB/frameset&FF=Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&2%2C2%2C). 
 
-Date  | Topic                      | Pre-class | In-class | Notes
+Date  | Topic                      | Reading | Homework | Notes
 ------|----------------------------|-----------|----------|------
-8/30  | Introduction to the course |                             | [ICA1](assignments/ica1.md) |
-9/4   | Single-processor computing | [PCA1](assignments/pca1.md) | [ICA2](assignments/ica2.md) |
-9/6   | Single-processor computing | | |
-9/11  | Single-processor computing | [PCA2](assignments/pca2.md) | [ICA3](assignments/ica3.md) |
-9/13  | Parallel computing theory  | [PCA3](assignments/pca3.md)| |
-9/18  | Parallel programming       | [PCA4](assignments/pca4.md) | |
-9/20  | Intro to MPI, functional parallelism   | [PCA5](assignments/pca5.md) | [ICA4](assignments/ica4.md) |
-9/25  | Collective communication | [PCA6](assignments/pca6.md) | [ICA5](assignments/ica5.md) |
-9/27  | Point-to-point communication | [PCA7](assignments/pca7.md) | |
-10/2  | Point-to-point communication | [PCA8](assignments/pca8.md) | [ICA6](assignments/ica6.md) |
-10/4  | Data types, communicators, proc. mgmt.    | [PCA9](assignments/pca9.md) | [ICA7](assignments/ica7.md) |
-10/9  | More on types and communicators | | [ICA8](assignments/ica8.md) |
-10/11 | One-sided communication         | [PCA10](assignments/pca10.md) | [ICA9](assignments/ica9.md) |
-10/16 | GPUs and CUDA | [PCA11](assignments/pca11.md) | [ICA10](assignments/ica10.md) |
-10/18 | GPUs and CUDA | | |
-10/23 | Network Topologies     | [PCA12](assignments/pca12.md) | |
-10/25 | I/O, shared memory MPI   | [PCA13](assignments/pca13.md) | | Project topics/proposals due
-10/30 | HDF5 | | [ICA11](assignments/ica11.md) |
-11/1  | Multi-threading, co-processors, etc.     | | [ICA12](assignments/ica12.md) |
-11/6  | OpenMP, regions, loops | [PCA14](assignments/pca14.md) | [ICA13](assignments/ica13.md) |
-11/8  | Worksharing, thread data, reductions | [PCA15](assignments/pca15.md) | |
-11/13 | Synchronization, tasks     | | |
-11/15 | Affinity, memory models    | | |
-11/20 | Work day        | | |
-11/22 | _No class!_                | | |
-11/27 | SIMD, OpenMP review | | |
-11/29 | OpenMP 4.5 GPU         | | | Peer evaluation of poster drafts!
-12/3  |                            | | | Posters due to DECS!
-12/4  | Advanced architectures     | | |
-12/6  | Poster session (in 1502 EGR!) | | | Project reports due
-12/13 | _Final exam_ (10 am - 12 pm, 1230 EGR) | | |
+1/8  | Geometric physics | [TB 1](https://www.dropbox.com/s/eef43cw6bxs4otm/1201.1.K.pdf?dl=0) | [Homework 1](assignments/hw1.md) |
+1/10 | Geometric physics | [TB 1](https://www.dropbox.com/s/eef43cw6bxs4otm/1201.1.K.pdf?dl=0) | 
+1/15 | Special relativity | [TB 2](https://www.dropbox.com/s/u0djrahgq0aha2b/1202.1.K.pdf?dl=0) | [Homework 2](assignments/hw2.md)
+1/17 | Special relativity | [TB 2](https://www.dropbox.com/s/u0djrahgq0aha2b/1202.1.K.pdf?dl=0)
+1/22 | Special to General | [TB 24](https://www.dropbox.com/s/22nb9u126445lgd/1224.2.K.pdf?dl=0) | [Homework 3](assignments/hw3.md)
+1/24 | Special to General | [TB 24](https://www.dropbox.com/s/22nb9u126445lgd/1224.2.K.pdf?dl=0)
+1/29 | Fundamentals of GR | [TB 25](https://www.dropbox.com/s/mvwl0aft8mcuma2/1225.2.K.pdf?dl=0) | [Homework 4](assignments/hw4.md)
+1/31 | Fundamentals of GR | [TB 25](https://www.dropbox.com/s/mvwl0aft8mcuma2/1225.2.K.pdf?dl=0) | | 
+2/5 | TOV equation, OS collapse | BS 1 | | HW 1-4 due 
+2/7 | No class 
+2/12 | 3+1 decomposition | BS 2 | 
+2/14 | 3+1 decomposition | BS 2
+2/19 | Initial data | BS 3 
+2/21 | Initial data | BS 3
+2/26 | No class 
+2/28 | Lapse & Shift | BS 4 | | Midterm due
+3/5 | Matter sources | BS 5
+3/7 | Matter sources | BS 5
+3/12 | Matter sources | BS 5
+3/14 | Matter sources | BS 5 
+3/19 | BH horizons | BS 7
+3/21 | BH horizons | BS 7
+3/26 | Spherical spacetimes | BS 8
+3/28 | Spherical spacetimes | BS 8
+4/2 | Gravitational waves | BS 9 
+4/4 | Gravitational waves | BS 9
+4/9 | Evolution equations | BS 11
+4/11 | Evolution equations | BS 11
+4/16 | Binary BH initial data | BS 12
+4/18 | Binary BH evolution | BS 13
+4/23 | Binary NS initial data | BS 15
+4/25 | Binary NS evolution | BS 16
+5/1 | Final project presentations | | | 10 am - 12 pm
