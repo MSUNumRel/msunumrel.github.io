@@ -5,7 +5,7 @@ title: Course Schedule
 
 # Course Schedule
 
-The class will follow this _tentative_ schedule. Updates will be posted here and on the course Slack channel! In the following **TB** refers to Thorne & Blandford, [Modern Classical Physics](https://magic.msu.edu//search~S39?/XModern+Classical+Physics&SORT=D/XModern+Classical+Physics&SORT=D&search=Modern+Classical+Physics&SUBKEY=Modern+Classical+Physics/1%2C346%2C346%2CB/frameset&FF=XModern+Classical+Physics&SORT=D&1%2C1%2C), and **BS** refers to Baumgarte & Shapiro, [Numerical Relativity](https://magic.msu.edu//search~S39?/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&search=numerical+relativity+solving+einstein%27s+equations&SUBKEY=numerical+relativity+solving+einstein%27s+equations/1%2C3%2C3%2CB/frameset&FF=Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&2%2C2%2C). 
+The class will follow this _tentative_ schedule. Updates will be posted here and on the course Slack channel! In the following **TB** refers to Thorne & Blandford, [Modern Classical Physics](http://catalog.lib.msu.edu/record=b12356242\~S39a), and **BS** refers to Baumgarte & Shapiro, [Numerical Relativity](http://catalog.lib.msu.edu/record=b12974302\~S39a). 
 
 Date  | Topic                      | Reading | Homework | Notes
 ------|----------------------------|-----------|----------|------

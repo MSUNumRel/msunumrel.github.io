@@ -43,17 +43,17 @@ You may also send direct messages via Slack to the instructor or any other membe
 
 ### Text book and references
 
-The primary textbook for the majority of this course is [Numerical Relativity](https://magic.msu.edu//search\~S39?/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D/Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&search=numerical+relativity+solving+einstein%27s+equations&SUBKEY=numerical+relativity+solving+einstein%27s+equations/1%2C3%2C3%2CB/frameset&FF=Xnumerical+relativity+solving+einstein%27s+equations&SORT=D&2%2C2%2C) by Baumgarte & Shapiro. This text is available from the MSU Libraries as an electronic resource available for download.
+The primary textbook for the majority of this course is [Numerical Relativity](http://catalog.lib.msu.edu/record=b12974302\~S39a) by Baumgarte & Shapiro. This text is available from the MSU Libraries as an electronic resource available for download.
 
-We will also make use of several chapters from [Modern Classical Physics](https://magic.msu.edu//search\~S39?/XModern+Classical+Physics&SORT=D/XModern+Classical+Physics&SORT=D&search=Modern+Classical+Physics&SUBKEY=Modern+Classical+Physics/1%2C346%2C346%2CB/frameset&FF=XModern+Classical+Physics&SORT=D&1%2C1%2C) by Thorne and Blandford.
+We will also make use of several chapters from [Modern Classical Physics](http://catalog.lib.msu.edu/record=b12356242\~S39a) by Thorne and Blandford.
 
 Other useful resources and texts on general relativity that may be used as references are:
 
-[Gravitation](https://magic.msu.edu/search\~S39?/tgravitation/tgravitation/1%2C150%2C185%2CB/frameset&FF=tgravitation+%2F&6%2C%2C7/indexsort=-) by Misner, Thorne, and Wheeler (often just referred to as MTW)
+[Gravitation](http://catalog.lib.msu.edu/record=b1456722\~S39a) by Misner, Thorne, and Wheeler (often just referred to as MTW)
 
-[General Relativity](https://magic.msu.edu/search\~S39?/awald/awald/101%2C1538%2C4339%2CB/frameset&FF=awald+robert+m&1%2C%2C4/indexsort=-) by Robert Wald 
+[General Relativity](http://catalog.lib.msu.edu/record=b3379181\~S39a) by Robert Wald 
 
-[Spacetime and Geometry](https://magic.msu.edu/search\~S39?/Xspacetime+and+geometry&SORT=D/Xspacetime+and+geometry&SORT=D&search=spacetime+and+geometry&SUBKEY=spacetime+and+geometry/1%2C82%2C82%2CB/frameset&FF=Xspacetime+and+geometry&SORT=D&4%2C4%2C) by Sean Caroll
+[Spacetime and Geometry](http://catalog.lib.msu.edu/record=b4179736\~S39a) by Sean Caroll
 
 [Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) by Sean Carroll (the freely-available precursor to the Spacetime and Geometry textbook)
 
