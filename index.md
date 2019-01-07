@@ -32,6 +32,8 @@ Office hours: By appointment
 
 The class meets Tuesdays and Thursdays from 12:40 pm to 2 pm in [N125 Business College Complex](https://maps.msu.edu/interactive/index.php?location=BCC) (BCC). 
 
+Videos of the lectures and lecture notes will be posted to [Lectures](lectures.md).
+
 ### Communication and Slack
 
 The primary vehicle for communication regarding this course will be [Slack](http://slack.com).
