@@ -4,7 +4,7 @@
 
 ### Prof. Sean Couch
 
-This is graduate-level course covers the practical and theoretical aspects of parallel and high-performance computing in science and engineering.
+This is an advanced graduate-level course covering the essentials of solving the equations of general relativity numerically.
 
 ### Course Goals
 
