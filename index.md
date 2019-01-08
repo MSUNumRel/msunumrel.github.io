@@ -4,7 +4,7 @@
 
 ### Prof. Sean Couch
 
-This is an advanced graduate-level course covering the essentials of solving the equations of general relativity numerically.
+This is an advanced graduate-level course covering the essentials of solving the equations of general relativity numerically. The course website is [msunumrel.github.io](https://msunumrel.github.io).
 
 ### Course Goals
 
