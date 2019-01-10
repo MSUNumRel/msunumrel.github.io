@@ -5,7 +5,7 @@ title: Lectures
 
 # Course Lectures and Notes
 
-Date  | Topic                      | Lecture | Notes 
+Date  | Topic                      | Video | Notes 
 ------|----------------------------|-----------|----------
 1/8  | Geometric physics | [Lecture 1](https://www.dropbox.com/s/rsvdjo7j6lfp7b3/ast900\_lecture1\_08012019.mp4?dl=0) | [Notes 1](notes/Lecture1.pdf)
 1/10 | Geometric physics | [Lecture 2](https://www.dropbox.com/s/578qini5azmichy/ast900\_lecture2\_10012019.mov?dl=0) | [Notes 2](notes/Lecture2.pdf)
