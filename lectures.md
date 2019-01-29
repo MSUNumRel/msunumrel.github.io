@@ -13,7 +13,7 @@ Date  | Topic                      | Video | Notes
 1/17 | Special relativity | [Lecture 4](https://www.dropbox.com/s/l8zsd1i0t0j9y6l/ast900\_lecture4\_17012019.mp4?dl=0) | [Notes 4](notes/Lecture4.pdf)
 1/22 | Special to General | [Lecture 5](https://www.dropbox.com/s/f18zry4eobgba81/ast900\_lecture5\_22012019.mp4?dl=0) | [Notes 5](notes/Lecture5.pdf)
 1/24 | Special to General | | [Notes 6](notes/Lecture6.pdf)
-1/29 | Fundamentals of GR | | [Notes 7](notes/Lecture7.pdf)
+1/29 | Fundamentals of GR | | [Notes 7](notes/lecture7.pdf)
 1/31 | Fundamentals of GR |
 2/5 | TOV equation, OS collapse |
 2/7 | No class 
