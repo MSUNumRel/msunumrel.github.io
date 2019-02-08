@@ -5,6 +5,8 @@ title: Lectures
 
 # Course Lectures and Notes
 
+Below are the lecture videos and notes for the course.
+
 Date  | Topic                      | Video | Notes 
 ------|----------------------------|-----------|----------
 1/8  | Geometric physics | [Lecture 1](https://www.dropbox.com/s/rsvdjo7j6lfp7b3/ast900\_lecture1\_08012019.mp4?dl=0) | [Notes 1](notes/Lecture1.pdf)
@@ -12,30 +14,9 @@ Date  | Topic                      | Video | Notes
 1/15 | Special relativity | [Lecture 3](https://www.dropbox.com/s/b6r4zbwo1fml4o6/ast900\_lecture3\_15012019.mp4?dl=0) | [Notes 3](notes/Lecture3.pdf)
 1/17 | Special relativity | [Lecture 4](https://www.dropbox.com/s/l8zsd1i0t0j9y6l/ast900\_lecture4\_17012019.mp4?dl=0) | [Notes 4](notes/Lecture4.pdf)
 1/22 | Special to General | [Lecture 5](https://www.dropbox.com/s/f18zry4eobgba81/ast900\_lecture5\_22012019.mp4?dl=0) | [Notes 5](notes/Lecture5.pdf)
-1/24 | Special to General | | [Notes 6](notes/Lecture6.pdf)
+1/24 | Special to General | [Lecture 6](https://www.dropbox.com/s/wljzpul20o03mbb/ast900\_lecture6\_24012019.mp4?dl=0) | [Notes 6](notes/Lecture6.pdf)
 1/29 | Fundamentals of GR | | [Notes 7](notes/lecture7.pdf)
-1/31 | Fundamentals of GR | | [Notes 8](notes/Lecture8.pdf)
-2/5 | TOV equation, OS collapse |
-2/7 | No class 
-2/12 | 3+1 decomposition | 
-2/14 | 3+1 decomposition | 
-2/19 | Initial data | 
-2/21 | Initial data | 
-2/26 | No class 
-2/28 | Lapse & Shift |
-3/5 | Matter sources |
-3/7 | Matter sources | 
-3/12 | Matter sources |
-3/14 | Matter sources | 
-3/19 | BH horizons | 
-3/21 | BH horizons |
-3/26 | Spherical spacetimes | 
-3/28 | Spherical spacetimes | 
-4/2 | Gravitational waves | 
-4/4 | Gravitational waves | 
-4/9 | Evolution equations | 
-4/11 | Evolution equations | 
-4/16 | Binary BH initial data | 
-4/18 | Binary BH evolution |
-4/23 | Binary NS initial data | 
-4/25 | Binary NS evolution | 
+1/31 | _Cancelled due to Coldmaggedon_ 
+2/5 | Fundamentals of GR | | [Notes 8](notes/Lecture8.pdf)
+2/7 | _No class_ 
+2/12 | TOV equation, OS collapse |
