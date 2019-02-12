@@ -5,7 +5,8 @@ title: Lectures
 
 # Course Lectures and Notes
 
-Below are the lecture videos and notes for the course.
+Lectures take place Tuesdays and Thursdays, 12:40 pm to 2 pm Eastern. See [Schedule](schedule.md) for important dates and cancellations. If you wish to join via Zoom, the permanent link is https://msu.zoom.us/j/539975730. Handwritten notes will be posted here prior to lecture, and links to the videos will appear here after lecture.
+
 
 Date  | Topic                      | Video | Notes 
 ------|----------------------------|-----------|----------
