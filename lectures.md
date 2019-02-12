@@ -5,7 +5,7 @@ title: Lectures
 
 # Course Lectures and Notes
 
-Lectures take place Tuesdays and Thursdays, 12:40 pm to 2 pm Eastern. See [Schedule](schedule.md) for important dates and cancellations. If you wish to join via Zoom, the permanent link is https://msu.zoom.us/j/539975730. Handwritten notes will be posted here prior to lecture, and links to the videos will appear here after lecture.
+Lectures take place Tuesdays and Thursdays, 12:40 pm to 2 pm Eastern. See [Schedule](schedule.md) for important dates and cancellations. If you wish to join via Zoom, see the course Slack channel or contact the instructor. Handwritten notes will be posted here prior to lecture, and links to the videos will appear here after lecture.
 
 
 Date  | Topic                      | Video | Notes 
@@ -20,4 +20,4 @@ Date  | Topic                      | Video | Notes
 1/31 | _Cancelled due to Coldmaggedon_ 
 2/5 | Fundamentals of GR | | [Notes 8](notes/Lecture8.pdf)
 2/7 | _No class_ 
-2/12 | TOV equation, OS collapse |
+2/12 | TOV equation, OS collapse | | [Notes 9](notes/Lecture9.pdf)
