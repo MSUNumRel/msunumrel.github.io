@@ -21,8 +21,8 @@ Date  | Topic                      | Reading | Homework | Notes
 2/5 | Fundamentals of GR | [TB 25](https://www.dropbox.com/s/mvwl0aft8mcuma2/1225.2.K.pdf?dl=0) | | 
 2/7 | _No class_ 
 2/12 | TOV equation, OS collapse | BS 1 | [Midterm](projects.md) | 
-2/14 | 3+1 decomposition | BS 2.1 - 2.3 | 
-2/19 | 3+1 decomposition | BS 2 | | HW 1-4 due
+2/14 | 3+1 decomposition | BS 2.1 - 2.4 | 
+2/19 | 3+1 decomposition | BS 2.5 - 2.7 | | HW 1-4 due
 2/21 | Initial data | BS 3 
 2/26 | _No class_
 2/28 | Lapse & Shift | BS 4 | | 
