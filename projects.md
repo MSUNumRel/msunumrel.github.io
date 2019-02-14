@@ -11,7 +11,7 @@ For the midterm project, you will develop a Tolman-Oppenheimer-Volkov (TOV) solv
 Your code should adhere to the course [Coding Standards](coding.md). 
 
 1. Write a numerical solver for the spherically-symmetric TOV equations using a fourth-order Runge-Kutta integrator. Assume a polytropic EOS specified by $K$ and $\gamma$. You may find [these notes](notes/TOV_Notes.pdf) particularly helpful.
-2. Determine the maximum mass of a cold NS for $K=3000$ (in $G=c=M_\odot=1$ units) and $\gamma=2.75$. 
+2. Determine the maximum mass of a cold NS for $K=30000$ (in $G=c=M_\odot=1$ units) and $\gamma=2.75$. 
 3. Now, modify your code to use any arbitrary table-based EOS. Specifically, make your solver compatible with the EOS available on [stellarcollapse.org](https://stellarcollapse.org/equationofstate). There is example code on that site in C++ and Fortran for reading and using the tables there, and working with the EOS tables is trivial in Python using `h5py`. 
 4. Determine the maximum mass for any five of the EOS available on stellarcollapse.org. 
 5. Make mass vs. radius plots for these same five EOS. 

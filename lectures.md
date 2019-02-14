@@ -18,7 +18,7 @@ Date  | Topic                      | Video | Notes
 1/24 | Special to General | [Lecture 6](https://www.dropbox.com/s/wljzpul20o03mbb/ast900\_lecture6\_24012019.mp4?dl=0) | [Notes 6](notes/Lecture6.pdf)
 1/29 | Fundamentals of GR | [Lecture 7](https://youtu.be/40ZtUf9mHxg) | [Notes 7](notes/lecture7.pdf)
 1/31 | _Cancelled due to Coldmaggedon_ 
-2/5 | Fundamentals of GR | | [Notes 8](notes/Lecture8.pdf)
+2/5 | Fundamentals of GR | [Lecture 8](https://youtu.be/DDE-d7KqbP0) | [Notes 8](notes/Lecture8.pdf)
 2/7 | _No class_ 
 2/12 | TOV equation, OS collapse | | [Notes 9](notes/Lecture9.pdf)
 2/14 | 3+1 decomposition | | [Notes 10](notes/Lecture10.pdf)
