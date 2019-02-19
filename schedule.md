@@ -21,25 +21,26 @@ Date  | Topic                      | Reading | Homework | Notes
 2/5 | Fundamentals of GR | [TB 25](https://www.dropbox.com/s/mvwl0aft8mcuma2/1225.2.K.pdf?dl=0) | | 
 2/7 | _No class_ 
 2/12 | TOV equation, OS collapse | BS 1 | [Midterm](projects.md) | 
-2/14 | 3+1 decomposition | BS 2.1 - 2.4 | 
-2/19 | 3+1 decomposition | BS 2.5 - 2.7 | | HW 1-4 due
-2/21 | Initial data | BS 3 
+2/14 | 3+1 decomposition | BS 2.1 - 2.3 | 
+2/19 | 3+1 decomposition | BS 2.4 - 2.6 | [Homework 5](assignments/hw5.md) | HW 1-4 due
+2/21 | 3+1/ADM | BS 2.7 | 
 2/26 | _No class_
-2/28 | Lapse & Shift | BS 4 | | 
+2/28 | Initial data | BS 3
 3/5 | _Spring Break_
 3/7 | _Spring Break_
-3/12 | Matter sources | BS 5 | | Midterm due
-3/14 | Matter sources | BS 5
-3/19 | Matter sources | BS 5 
-3/21 | BH horizons | BS 7
+3/12 | Lapse & Shift | BS 4 | | Midterm due
+3/14 | Matter sources | BS 5 | | 
+3/19 | Matter sources | BS 5
+3/21 | Matter sources | BS 5 
 3/26 | BH horizons | BS 7
-3/28 | Spherical spacetimes | BS 8
+3/28 | BH horizons | BS 7
 4/2 | Spherical spacetimes | BS 8
-4/4 | Gravitational waves | BS 9 
-4/9 | Gravitational waves | BS 9
-4/11 | Evolution equations | BS 11
+4/4 | Spherical spacetimes | BS 8
+4/9 | Gravitational waves | BS 9 
+4/11 | Gravitational waves | BS 9
 4/16 | Evolution equations | BS 11
-4/18 | Binary BH initial data | BS 12
-4/23 | Binary BH evolution | BS 13
-4/25 | Binary NS initial data/evolution | BS 15, 16
+4/18 | Evolution equations | BS 11
+4/23 | Binary BH initial data | BS 12
+4/25 | Binary BH evolution | BS 13
+? | Binary NS initial data/evolution | BS 15, 16
 5/1 | Final project presentations | | | 10 am - 12 pm
