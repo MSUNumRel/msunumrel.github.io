@@ -21,5 +21,5 @@ Date  | Topic                      | Video | Notes
 2/5 | Fundamentals of GR | [Lecture 8](https://youtu.be/DDE-d7KqbP0) | [Notes 8](notes/Lecture8.pdf)
 2/7 | _No class_ 
 2/12 | TOV equation, OS collapse | [Lecture 9](https://youtu.be/z7o\_0Czikvo) | [Notes 9](notes/Lecture9.pdf)
-2/14 | 3+1 decomposition | | [Notes 10](notes/Lecture10.pdf)
+2/14 | 3+1 decomposition | [Lecture 10](https://youtu.be/b4d2-f2MLqE) | [Notes 10](notes/Lecture10.pdf)
 2/19 | 3+1 decomposition | | [Notes 11](notes/Lecture11.pdf)
