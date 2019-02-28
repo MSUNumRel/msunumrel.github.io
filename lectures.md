@@ -25,3 +25,4 @@ Date  | Topic                      | Video | Notes
 2/19 | 3+1 decomposition | [Lecture 11](https://youtu.be/W2hgOrcxMJo) | [Notes 11](notes/Lecture11.pdf)
 2/21 | ADM equations | [Lecture 12](https://youtu.be/oQLdXxOMYgI) | [Notes 12](notes/Lecture12.pdf)
 2/26 | _No class_ 
+2/28 | Initial data | | [Notes 13](notes/Lecture13.pdf)
