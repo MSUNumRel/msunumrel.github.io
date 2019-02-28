@@ -7,7 +7,6 @@ title: Lectures
 
 Lectures take place Tuesdays and Thursdays, 12:40 pm to 2 pm Eastern. See [Schedule](schedule.md) for important dates and cancellations. If you wish to join via Zoom, see the course Slack channel or contact the instructor. Handwritten notes will be posted here prior to lecture, and links to the videos will appear here after lecture.
 
-
 Date  | Topic                      | Video | Notes 
 ------|----------------------------|-----------|----------
 1/8  | Geometric physics | [Lecture 1](https://www.dropbox.com/s/rsvdjo7j6lfp7b3/ast900\_lecture1\_08012019.mp4?dl=0) | [Notes 1](notes/Lecture1.pdf)
