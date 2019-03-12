@@ -25,3 +25,6 @@ Date  | Topic                      | Video | Notes
 2/21 | ADM equations | [Lecture 12](https://youtu.be/oQLdXxOMYgI) | [Notes 12](notes/Lecture12.pdf)
 2/26 | _No class_ 
 2/28 | Initial data | | [Notes 13](notes/Lecture13.pdf)
+3/5  | _Spring Break_
+3/7  | _Spring Break_
+3/12 | Lapse and Shift | | [Notes 14](notes/Lecture14.pdf)
