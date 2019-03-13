@@ -28,7 +28,7 @@ Date  | Topic                      | Reading | Homework | Notes
 2/28 | Initial data | BS 3
 3/5 | _Spring Break_
 3/7 | _Spring Break_
-3/12 | Lapse & Shift | BS 4 | | Midterm due
+3/12 | Lapse & Shift | BS 4 | [Homework 6](assignments/hw6.md) | Midterm due
 3/14 | Matter sources | BS 5 | | 
 3/19 | Matter sources | BS 5
 3/21 | Matter sources | BS 5 

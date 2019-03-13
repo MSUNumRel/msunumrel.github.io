@@ -14,3 +14,4 @@ For reading assignments, see the course [schedule](schedule.md).
 - [Homework 3](assignments/hw3.md)
 - [Homework 4](assignments/hw4.md)
 - [Homework 5](assignments/hw5.md)
+- [Homework 6](assignments/hw6.md)
