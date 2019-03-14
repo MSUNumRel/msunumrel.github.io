@@ -28,3 +28,4 @@ Date  | Topic                      | Video | Notes
 3/5  | _Spring Break_
 3/7  | _Spring Break_
 3/12 | Lapse and Shift | | [Notes 14](notes/Lecture14.pdf)
+3/14 | Matter sources | | [Notes 15](notes/Lecture15.pdf)
