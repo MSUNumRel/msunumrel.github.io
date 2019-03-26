@@ -31,3 +31,4 @@ Date  | Topic                      | Video | Notes
 3/14 | Matter sources | | [Notes 15](notes/Lecture15.pdf)
 3/19 | Matter and radiation | | [Notes 16](notes/Lecture16.pdf)
 3/21 | Radiation and MHD | | [Notes 17](notes/Lecture17.pdf)
+3/26 | MHD | | [Notes 18](notes/Lecture18.pdf)
