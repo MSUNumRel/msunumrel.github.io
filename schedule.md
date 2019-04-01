@@ -31,16 +31,15 @@ Date  | Topic                      | Reading | Homework | Notes
 3/12 | Lapse & Shift | BS 4 | [Homework 6](assignments/hw6.md) | Midterm due
 3/14 | Matter sources | BS 5 | | 
 3/19 | Matter sources | BS 5
-3/21 | Matter sources | BS 5 
-3/26 | BH horizons | BS 7
-3/28 | BH horizons | BS 7
-4/2 | Spherical spacetimes | BS 8
-4/4 | Spherical spacetimes | BS 8
-4/9 | Gravitational waves | BS 9 
+3/21 | GR Radiation Transport | BS 5 
+3/26 | GR MHD | BS 5
+3/28 | _Cancelled due to plague_
+4/2 | Work on Final Project
+4/4 | BH horizons | BS 7
+4/9 | Spherical spacetimes | BS 8
 4/11 | Gravitational waves | BS 9
-4/16 | Evolution equations | BS 11
-4/18 | Evolution equations | BS 11
-4/23 | Binary BH initial data | BS 12
-4/25 | Binary BH evolution | BS 13
-? | Binary NS initial data/evolution | BS 15, 16
+4/16 | Evolution equations | BS 11 | | HW 5 & 6 due
+4/18 | Binary NS initial data | BS 15
+4/23 | Binary NS evolution | BS 16
+4/25 | Binary NS evolution | BS 16
 5/1 | Final project presentations | | | 10 am - 12 pm
