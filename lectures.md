@@ -32,3 +32,5 @@ Date  | Topic                      | Video | Notes
 3/19 | Matter and radiation | | [Notes 16](notes/Lecture16.pdf)
 3/21 | Radiation and MHD | | [Notes 17](notes/Lecture17.pdf)
 3/26 | MHD | | [Notes 18](notes/Lecture18.pdf)
+4/2  | In-class final project work
+4/4  | Horizons | | [Notes 19](notes/Lecture19.pdf)
