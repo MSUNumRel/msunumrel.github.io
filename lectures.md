@@ -36,3 +36,4 @@ Date  | Topic                      | Video | Notes
 4/4  | Horizons | | [Notes 19](notes/Lecture19.pdf)
 4/5  | Spherical spacetime | | [Notes 20](notes/Lecture20.pdf)
 4/7  | Gravitational waves | | [Notes 21](notes/Lecture21.pdf)
+4/16 | Gravitational waves | | [Notes 22](notes/Lecture22.pdf)
