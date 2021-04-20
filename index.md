@@ -1,4 +1,4 @@
-# Syllabus
+# Syllabus - AST 900 Numerical Relativity
 
 ## Spring 2019, Michigan State University
 
